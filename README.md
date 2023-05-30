@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/nftSuits_logo.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/nftSuits_logo.png"/>
 </p>
 
 # NFT Marketplace for Ethereum Blockchain
@@ -40,17 +40,17 @@ NFT Suits is a game centered around collectible unique items that are used to cr
 **Testing:** Mocha
 
 <p align="center">
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/react-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/recoil-logo.svg"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/materialUI-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/solidity-logo.jpeg"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/ganache-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/truffle-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/remix-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/docker-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/securify-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/slither-logo.png"></code>
-    <code><img height="40" src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/mocha-logo.svg"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/react-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/recoil-logo.svg"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/materialUI-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/solidity-logo.jpeg"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/ganache-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/truffle-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/remix-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/docker-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/securify-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/slither-logo.png"></code>
+    <code><img height="40" src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20icons/mocha-logo.svg"></code>
 </p>
 
 ## Deliverables
@@ -106,23 +106,23 @@ To run tests, run the following command
 </p>
 <p align="center">
     <h3>Market Place</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/marketplace-page.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/marketplace-page.png"/>
 </p>
 <p align="center">
     <h3>Item Page Example 1</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-1.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-1.png"/>
 </p>
 <p align="center">
     <h3>Item Page Example 2</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-2.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/item-example-2.png"/>
 </p>
 <p align="center">
     <h3>Profile Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/profile-page.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/profile-page.png"/>
 </p>
 <p align="center">
     <h3>Avatars Page</h3>
-    <img src="https://github.com/NFTSuits/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
+    <img src="https://github.com/LoveNuna/NFT-Marketplace-DApp/blob/main/NFTSuits%20images/avatar-page.png"/>
 </p>
 
 ## Support and Feedback
